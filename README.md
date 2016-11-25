@@ -1,6 +1,6 @@
 # Jquery-drop-down-menu
 
-Simple jquery drop down menu
+Simple jquery drop down menu( with one sub level sub menu )
 
 There are four files:
 
